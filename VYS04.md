@@ -1,22 +1,5 @@
-BSM211 Veritabanı Yönetim Sistemleri - Celal ÇEKEN, İsmail ÖZTEL, Veysel Harun ŞAHİN
-
 # İlişkisel Veritabanı Modeli
 
-## Konular
-
-* Veritabanı Tasarım Aşamaları
-* Temel Kavramlar
-* Tablo
-* Anahtar
-* Bütünlük Kuralları
-* Birincil Anahtar Özellikleri
-* Vekil Birincil Anahtar
-* Varlık Bağıntı Modelinin İlişkisel Modele Dönüştürülmesi
-* İndeks
-* Veri Sözlüğü (Sistem Kataloğu)
-* Örnek Uygulama - Araç Üreticisi
-* Örnek Uygulama – Elektronik Ticaret Sistemi
-* Kaynaklar
 
 ## Veritabanı Geliştirme Yaşam Döngüsü
 
@@ -317,15 +300,6 @@ Bir elektronik ticaret şirketi geliştirlecek olan bir elektronik ticaret siste
 * İller(**plakaNo: varchar**, ilAdi: varchar)
 * Fatura(**faturaNo: char**, tarih: date)
 * Urun(**urunKodu: char**, adi: varchar, stokMiktari: int, birimFiyati: real, kategoriKodu: char)
-
-
-## Kaynaklar
-
-* Carlos Coronel, Steven Morris, and Peter Rob, Database Systems: Design, Implementation, and Management, Cengage Learning.
-
-
-
-
 
 
 
