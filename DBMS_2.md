@@ -1,16 +1,6 @@
-
-BSM211 Veritabanı Yönetim Sistemleri - Celal ÇEKEN, İsmail ÖZTEL, Veysel Harun ŞAHİN
-
 # Varlık Bağıntı Modeli - Örnek Uygulamalar
 
 
-## Konular
-
-* Varlık Bağıntı Modeli (VBM/ERM) ile Tasarım
-* Örnek Uygulama – Araç Üreticisi
-* Örnek Uygulama – Kitabevi Yazılımı
-* Örnek Uygulama – Üniversite Bilgi Sistemi
-* Kaynaklar
 
 
 ## Varlık Bağıntı Modeli (VBM/ERM) ile Tasarım
