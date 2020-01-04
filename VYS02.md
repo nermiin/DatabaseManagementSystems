@@ -1,38 +1,3 @@
-
-BSM211 Veritabanı Yönetim Sistemleri - Celal ÇEKEN, İsmail ÖZTEL, Veysel Harun ŞAHİN
-
-# İş Kuralları, Veri Modelleri, Varlık Bağıntı Modeli
-
-## Konular
-
-* Veritabanı Geliştirme Yaşam Döngüsü
-* İş Kuralları (Business Rules)
-* Veri Modeli Temel Bileşenleri
-* İş Kurallarını Veri Modeline Dönüştürme 
-* Veri Modellerinin Gelişimi
-  * Dosya Sistemi
-  * Hiyerarşik Model
-  * Ağ Modeli
-  * İlişkisel Veri Modeli
-  * Varlık Bağıntı Modeli
-  * Nesne Yönelimli Model
-  * Yeni Veri Modelleri
-* Veri Soyutlama
-* Varlık Bağıntı Modeli
-  * Temel Kavramlar
-  * Varlıklar Arası Bağıntılar
-  * Var Olma Bağımlılığı (Existence Dependency)
-  * Zayıf/Güçlü Bağıntılar
-  * Bağıntı Dereceleri
-  * Varlık Bağıntı Modeli (VBM/ERM) ile Tasarım
-* Kaynaklar
-
-
-## Veritabanı Geliştirme Yaşam Döngüsü
-
-![](Sekiller/02/YasamDongusu.png)
-
-
 ## İş Kuralları (Business Rules)
 
 * Veritabanı (varlık, nitelik, bağıntı ve kısıtlar) oluşturulurken iş kurallarına bakılır.
@@ -371,8 +336,3 @@ Bir personel bilgi sisteminde Personel ve Bagimli (Personele bagimli olan kişil
   + İlk varlık bağıntı diyagramı geliştirilir.
   + Varlıkları net bir şekilde tanımlayan nitelikleri ve birincil anahtarları oluşturulur.
   + Varlık Bağıntı Diyagramı gözden geçirilerek gerekirse yukarıdaki adımlar, istenilen duruma gelininceye kadar tekrarlanır.
-
-
-### Kaynaklar
-
-* Carlos Coronel, Steven Morris, and Peter Rob, Database Systems: Design, Implementation, and Management, Cengage Learning. 
