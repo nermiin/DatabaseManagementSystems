@@ -1,16 +1,4 @@
-BSM211 Veritabanı Yönetim Sistemleri - Celal ÇEKEN, İsmail ÖZTEL, Veysel Harun ŞAHİN
-
 # Genişletilmiş Varlık Bağıntı Modeli
-
-## Konular
-
-* Genelleme (Kalıtım)
-  + Çakışan (Overlap)
-  + Ayrık (Disjoint)
-  + Kısmi Bütünlük (Partial Completeness)
-  + Toplam Bütünlük (Total Completeness)
-* Kümeleme
-
 
 ## Genelleme (Kalıtım)
 
@@ -64,7 +52,3 @@ BSM211 Veritabanı Yönetim Sistemleri - Celal ÇEKEN, İsmail ÖZTEL, Veysel Ha
 
 ![](Sekiller/05/ETicaretKumeleme2.png)
 
-
-## Kaynaklar
-
-* Carlos Coronel, Steven Morris, and Peter Rob, Database Systems: Design, Implementation, and 	Management, Cengage Learning.
