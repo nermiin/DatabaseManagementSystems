@@ -1,6 +1,3 @@
-BSM211 Veritabanı Yönetim Sistemleri - Celal ÇEKEN, İsmail ÖZTEL, Veysel Harun ŞAHİN
-
-
 # Temel SQL (SQL DDL Komutları; İndeks (Index), Kalıtım, Tekli Bağıntı, SQL DML Komutları; Görünüm (View), Çoklu Satır Fonksiyonları, Gruplama) 
 
 ## Konular
