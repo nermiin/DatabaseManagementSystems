@@ -1,6 +1,3 @@
-
-BSM211 Veritabanı Yönetim Sistemleri - Celal ÇEKEN, İsmail ÖZTEL, Veysel Harun ŞAHİN
-
 # Yapısal Sorgulama Dili (Structured Query Language, SQL)
 
 
