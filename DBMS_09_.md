@@ -1,5 +1,3 @@
-BSM211 Veritabanı Yönetim Sistemleri - Celal ÇEKEN, İsmail ÖZTEL, Veysel Harun ŞAHİN
-
 # İleri SQL(Alt Sorgular, IN, ANY, ALL, İlintili Sorgular, UNION, INTERSECT, EXCEPT, Hareket/İşlem (Transaction))
 
 
