@@ -1,5 +1,3 @@
-BSM211 Veritabanı Yönetim Sistemleri - Celal ÇEKEN, İsmail ÖZTEL, Veysel Harun ŞAHİN
-
 # SQL Programlama: Fonksiyon / Saklı Yordam, Koşullu İfadeler, Döngüler, İmleç (Cursor), Tetikleyici (Trigger), Hazır Fonksiyonlar
 
 
